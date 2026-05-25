@@ -1,0 +1,45 @@
+# Expo
+node_modules/
+npm-debug.log
+.DS_Store
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+build/
+*.apk
+*.aab
+*.ipa
+
+# Watchman
+.watchmanconfig
+
+# Xcode
+ios/Pods
+*.xcworkspace
+xcUserData
+
+# Android
+android/.gradle
+android/.idea
+android/local.properties
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# EAS
+.easignore
